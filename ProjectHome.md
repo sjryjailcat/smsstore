@@ -1,0 +1,3 @@
+桌面雪人是一款Windows桌面上的休闲游戏，在WindowsXP和Windows2003测试可以正常运行，需要.NET Framework 2.0支持。
+
+短信酷是一款方便手机发短信、管理短信的软件。短信酷用Python编写，用于Symbian(S60)平台第一版和第二版的手机
